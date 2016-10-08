@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar"></style>
+
+    <style name="AppTheme">
+        <item name="otherbutton">@xml/btn_other_selectshape</item>
+        <item name="background1">@color/background1_sun</item>
+        <item name="background2">@color/background1_sun</item>
+        <item name="msgText">@xml/msg_bg_selectshape</item>
+        <item name="history">@xml/more_shape</item>
+        <item name="equals">@xml/btn_equals_selectshape</item>
+        <item name="zero">@xml/btn_zero_selectshape</item>
+        <item name="listcolor">@color/ivory</item>
+    </style>
+
+    <style name="AppTheme_Another" parent="AppTheme">
+        <item name="otherbutton">@xml/btn_other_moon_selectshape</item>
+        <item name="background1">@color/background1_moon</item>
+        <item name="background2">@color/background1_moon</item>
+        <item name="msgText">@xml/msg_bg_moon_selectshape</item>
+        <item name="history">@xml/more_shape_moon</item>
+        <item name="equals">@xml/btn_equals_moon_selectshape</item>
+        <item name="zero">@xml/btn_zero_moon_selectshape</item>
+        <item name="listcolor">@color/listcolor_moon</item>
+    </style>
+
+</resources>

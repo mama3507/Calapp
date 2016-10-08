@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="otherbutton" format="reference"/>
+    <attr name="background1" format="reference"/>
+    <attr name="background2" format="reference"/>   
+    <attr name="background3" format="reference"/>  
+    <attr name="background4" format="reference"/>   
+    <attr name="msgText" format="reference"/>
+    <attr name="btn_bg" format="reference"/>
+    <attr name="history" format="reference"/>
+    <attr name="equals" format="reference"/>
+    <attr name="zero" format="reference"/>
+    <attr name="listcolor" format="reference"/>
+    
+</resources>
